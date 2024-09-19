@@ -1,7 +1,7 @@
 {
 	"name": "wumpus-world",
 	"version": "1.0.0",
-	"description": "A Wumpus World Simulator developed in Javascript, HTML and CSS",
+	"description": "A Wumpus World Simulator",
 	"main": "app.js",
 	"scripts": {
 		"start": "node app.js",
@@ -12,14 +12,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thiagodnf/wumpus-world-simulator"
+		"url": "https://github.com/ShamyaHaria/Wumpus-World"
 	},
-	"author": "Thiago Ferreira",
+	"author": "Shamya Haria",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/thiagodnf/wumpus-world-simulator/issues"
+		"url": "https://github.com/ShamyaHaria/Wumpus-World/issues"
 	},
-	"homepage": "http://thiagodnf.github.io/wumpus-world-simulator",
+	"homepage": "https://shamyaharia.github.io/Wumpus-World/",
 	"devDependencies": {
 		"nodemon": "3.0.1"
 	},
