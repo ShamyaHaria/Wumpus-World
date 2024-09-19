@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Shamya Haria"
+		],
+		"locale": "en_us"
+	},
+	"breeze": "Breeze",
+    "stench": "Stench",
+    "score": "Score",
+    "arrow": "Arrow",
+    "remaining-golds": "Remaining Golds",
+    "controls": "Controls",
+    "source-code": "Source Code",
+    "close": "Close",
+    "restart": "Restart",
+    "game-over": "Game Over",
+    "congratulations": "Congratulations",
+    "share": "Share",
+    "settings": "Settings",
+    "info": "Info",
+    "settings-remove-walls": "Remove Walls",
+    "settings-volume": "Volume",
+    "no-canvas-support": "Sorry, browser does not support canvas",
+    "en_us": "English (United States)",
+    "pt_br": "Portuguese (Brazil)",
+    "fr": "French",
+    "ar": "Arabic",
+    "tr_TR": "Turkish (Turkey)" 
+}
