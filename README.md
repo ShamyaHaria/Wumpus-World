@@ -17,9 +17,8 @@ Access the simulator [here](https://shamyaharia.github.io/Wumpus-World/).
 Prepare yourself for the challenge by taking a look at this screenshot:
 
 <kbd> 
-  <img class="screenshot" src=""/> 
+  <img class="screenshot" src="/img/screenshot.png"/> 
 </kbd>
-(Image coming soon!)
 
 ## Available Languages
 The Wumpus World Simulator is available in multiple languages, ensuring no one is left out of the hunt:
