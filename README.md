@@ -10,8 +10,8 @@ Learn more about the history of this infamous creature here.
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)
 
 ## Play Now
-Test your wits and reflexes! Dive into the immersive Wumpus World Simulator by clicking here. Will you make it out alive?
-Access the simulator [here](https://shamyaharia.github.io/Wumpus-World/).
+Test your wits and reflexes! Dive into the immersive Wumpus World Simulator by clicking here. Will you make it out alive?<br>
+Access the simulator [Here](https://shamyaharia.github.io/Wumpus-World/).
 
 ## Sneak Peek
 Prepare yourself for the challenge by taking a look at this screenshot:
@@ -23,14 +23,15 @@ Prepare yourself for the challenge by taking a look at this screenshot:
 ## Available Languages
 The Wumpus World Simulator is available in multiple languages, ensuring no one is left out of the hunt:
 
-*English (US)
-*Portuguese (BR)
-*French
-*Turkish (TR)
-*Arabic
+English (US)<br>
+Portuguese (BR)<br>
+French<br>
+Turkish (TR)<br>
+Arabic
 
 ## Questions or Suggestions?
-Got an idea to make the Wumpus even more devious? Encountered a bug (no, not the one the Wumpus might eat)? Feel free to share your thoughts or report issues here. We welcome all feedback from fellow adventurers!
+Got an idea to make the Wumpus even more devious? Encountered a bug (no, not the one the Wumpus might eat)?<br>
+Feel free to share your thoughts or report issues here. We welcome all feedback from fellow adventurers!
 
 ## License
 This project is licensed under the MIT License. Check out the full details in the [LICENSE](LICENSE) file.
